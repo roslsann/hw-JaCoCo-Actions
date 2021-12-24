@@ -53,10 +53,10 @@
                         </goals>
                     </execution>
                     <execution>
-                            <id>check</id>
-                            <goals>
-                                <goal>check</goal>
-                            </goals>
+                        <id>check</id>
+                        <goals>
+                            <goal>check</goal>
+                        </goals>
                     </execution>
                 </executions>
                 <configuration>
